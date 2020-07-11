@@ -1,0 +1,58 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    color: rgb(113, 128, 138);
+    position: relative;
+    text-align: center;
+    font-family: 'Iceland', cursive !important;
+    font-weight: 200;
+    /* font-size: 4em; */
+
+}
+.main{
+    position: relative;
+    text-align: center;
+}
+.text{
+    position: absolute;
+}
+.text1{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    /* bottom: 25%; */
+    right: 25%;
+    transform: translate(-25%, -25%, -25%, -25%);
+    padding-right: 70px;
+    padding-top: 110px;
+    /* font-family: fantasy !important; */
+    font-family: 'Iceland', cursive !important;
+    font-weight: 200 !important;
+    color: darkorange !important;
+    font-size: auto;
+    
+}
+
+#top{
+    color: rgb(0, 149, 248);
+    /* position: relative; */
+    text-align: center;
+    font-family: 'Iceland', cursive !important;
+    font-weight: 200;
+    font-size: 5em;
+    text-align: center !important;
+    /* padding-left: 300px; */
+    margin-top: 10px;
+
+}
+
+
+#btn{
+    text-align: center;
+    padding-right: 50px;
+    margin-top: none;
+}
+
+.display-2{
+    display: inline-block;
+}
